@@ -1,0 +1,5 @@
+{
+  "name": "ifome",
+  "description": "Identifique ingredientes, quantidades e calorias de suas refeições através de fotos usando IA.",
+  "requestFramePermissions": []
+}
